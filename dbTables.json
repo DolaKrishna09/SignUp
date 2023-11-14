@@ -1,0 +1,91 @@
+{
+    "adminTable": [
+      {
+        "adminname": "Admin1",
+        "email": "admin1@example.com",
+        "password": "password1"
+      },
+      {
+        "adminname": "Admin2",
+        "email": "admin2@example.com",
+        "password": "password2"
+      },
+      {
+        "adminname": "Admin3",
+        "email": "admin3@example.com",
+        "password": "password3"
+      }
+    ],
+    "userTable": [
+        {
+          "username": "JohnDoe",
+          "password": "pass123",
+          "email": "john@example.com",
+          "contactno": "1234567890",
+          "gender": "male"
+        },
+        {
+          "username": "AliceSmith",
+          "password": "alicepass",
+          "email": "alice@example.com",
+          "contactno": "9876543210",
+          "gender": "female"
+        },
+        {
+          "username": "BobJohnson",
+          "password": "bobpass",
+          "email": "bob@example.com",
+          "contactno": "5555555555",
+          "gender": "male"
+        },
+        {
+          "username": "EmilyJones",
+          "password": "emilypass",
+          "email": "emily@example.com",
+          "contactno": "1111111111",
+          "gender": "female"
+        },
+        {
+          "username": "MaxBrown",
+          "password": "maxpass",
+          "email": "max@example.com",
+          "contactno": "9999999999",
+          "gender": "male"
+        },
+        {
+          "username": "SophiaLee",
+          "password": "sophiapass",
+          "email": "sophia@example.com",
+          "contactno": "7777777777",
+          "gender": "female"
+        },
+        {
+          "username": "DavidClark",
+          "password": "davidpass",
+          "email": "david@example.com",
+          "contactno": "8888888888",
+          "gender": "male"
+        },
+        {
+          "username": "EmmaTaylor",
+          "password": "emmapass",
+          "email": "emma@example.com",
+          "contactno": "6666666666",
+          "gender": "female"
+        },
+        {
+          "username": "LiamWilson",
+          "password": "liampass",
+          "email": "liam@example.com",
+          "contactno": "3333333333",
+          "gender": "male"
+        },
+        {
+          "username": "OliviaMartinez",
+          "password": "oliviapass",
+          "email": "olivia@example.com",
+          "contactno": "4444444444",
+          "gender": "female"
+        }
+      ]
+  }
